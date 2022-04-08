@@ -1,6 +1,6 @@
 # Student-Placement-Prediction_Project
 
-#App contains:
+**App contains:**
 It needs Id & password to login
 Basic information of the student
 It’ll contain the the attendance of the student
