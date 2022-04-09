@@ -19,6 +19,7 @@ Student Placement Predictor is a system which predicts student placement status 
       -django
       -bootstrap
       -sklearn
+      -nuget
       
       
 **Command to run the code**
