@@ -12,3 +12,14 @@ Student Placement Predictor is a system which predicts student placement status 
       -Fees of that particular student
       -Previous years question papers
       -Any notification that the college needs to notify.
+      
+**Software requirements:**
+      -python3
+      -numpy and pandas
+      -django
+      -bootstrap
+      -sklearn
+      
+      
+**Command to run the code**
+      python3 manage.py runserver
